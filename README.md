@@ -20,7 +20,7 @@ $ cd database
 $ npm install
 
 # Execute o servidor 
-$ npm server
+$ npm run server
 
 ** 2º ACESSAR APLICAÇÃO **
 
